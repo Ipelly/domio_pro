@@ -1,0 +1,20 @@
+environment :
+    NODE_ENV : development
+    PORT : 8000
+
+api :
+    ENDPOINT : https://interview.domio.io/properties/
+
+logger :
+    LOGGER_LEVEL : debug
+    HTTP_LOG_LEVEL : dev
+
+database : 
+    DB_SOURCE : db.domio
+
+admin : 
+    SMTP_SERVER : gmail
+    USER : ipelly.bd@gmail.com
+    PASSWORD : XXXXXXXXXX
+    TO : iqbalipel@gmail.com
+
